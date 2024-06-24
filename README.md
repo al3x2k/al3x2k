@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **aallen2022@fau.edu**
 
-- 📄 Know about my experiences [www.linkedin.com/in/alexandria-allen-0a9770262](www.linkedin.com/in/alexandria-allen-0a9770262)
-
-- ⚡ Fun fact **Since elementary school I have aspired to become an engineer!**
+- ⚡ Fun fact **Since elementary school, I have aspired to become an engineer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

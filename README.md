@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **A To Do List**
 
-- 🌱 I’m currently learning **Computer Logic Design, Data Structures and Algorithm Analysis, Intro to Data Science Analytics, and Programming 2**
+- 🌱 I’m currently learning **Introductions to Web Computing and Data Structures and Algorithm Analysis**
 
 - 👯 I’m looking to collaborate on **a project soon!**
 
 - 🤝 I’m looking for help with **a project soon!**
 
 - 👨‍💻 All of my projects are available at [coming soon!](coming soon!)
-
-- 📝 I regularly write articles on [coming soon!](coming soon!)
 
 - 📫 How to reach me **aallen2022@fau.edu**
 

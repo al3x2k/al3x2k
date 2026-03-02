@@ -78,7 +78,7 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 
 ## 🫧 GitHub Ocean Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=al3x2k&show_icons=true&theme=dark&hide_border=true"/></div>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=al3x2k&show_icons=true&hide_border=true&bg_color=000814&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&v=1" />
 </div>
 ---
 

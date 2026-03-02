@@ -71,12 +71,10 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 - 🌊 React & JavaScript Web Applications  
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00b4d8,100:001d3d&section=header" />
+<img src="https://img.shields.io/badge/GitHub-al3x2k-00b4d8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/al3x2k?style=for-the-badge&color=001d3d&labelColor=000814&logo=github" />
+<img src="https://img.shields.io/github/stars/al3x2k?style=for-the-badge&color=0077b6&labelColor=000814&logo=github" />
 ---
-
 ## 🌐 Connect
 
 <p align="center">

@@ -69,11 +69,8 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 
 ---
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=284FCA&width=600&center=true&vCenter=true&lines=Pick+Me+⋆.%F0%90%99%9A+Choose+Me+⋆˚꩜｡+Love+Me+˚ʚ♡ɞ˚" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=1069A9&width=435&lines=Pick+Me+%E2%8B%86.%F0%90%99%9A+%CC%8A+Choose+Me+%E2%8B%86%CB%9A%EA%A9%9C%EF%BD%A1+Love+Me+%CB%9A%CA%9A%E2%99%A1%C9%9E%CB%9A)](https://git.io/typing-svg)
+
 
 ---
 

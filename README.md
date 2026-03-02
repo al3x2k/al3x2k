@@ -1,5 +1,3 @@
-<!-- 🪼 MIDNIGHT JELLYFISH FRUTIGER AERO README 🪼 -->
-
 <div align="center">
 
 # 🫧 Alexandria Allen
@@ -20,21 +18,14 @@
 
 ## 🌊 About Me
 
-- 🎓 B.S. Computer Science (Minor in AI) — May 2026  
-- 🏫 Florida Atlantic University  
-- 🌌 Focus: Quantum Algorithms, Web Systems & Intelligent Design  
+- 🎓 **B.S. Computer Science (Minor in AI)** — May 2026  
+- 🏫 **Florida Atlantic University** - 🌌 **Focus:** Quantum Algorithms, Web Systems & Intelligent Design  
 
 I build systems that are:
-
-- 🧠 Intelligent & Data-Driven  
-- 💎 Clean & Structured  
-- 🌐 Scalable & Real-World Ready  
-- ✨ Purposeful & Optimistic  
-
----
+- 🧠 **Intelligent & Data-Driven** - 💎 **Clean & Structured** - 🌐 **Scalable & Real-World Ready** - ✨ **Purposeful & Optimistic** ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="520"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3Z4bmZ6eHpsY2R6bmR6bmR6bmR6bmR6bmR6bmR6bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="500" style="border-radius: 15px;"/>
 </div>
 
 ---
@@ -65,17 +56,14 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 
 ## 🌙 Current Focus
 
-- 📊 QUBO Optimization & Quantum Circuit Design  
-- 🧠 Deep Learning Foundations  
-- 🧩 Scalable System Architecture  
-- 🌊 React & JavaScript Web Applications  
----
+- 📊 **QUBO Optimization & Quantum Circuit Design** - 🧠 **Deep Learning Foundations** - 🧩 **Scalable System Architecture** - 🌊 **React & JavaScript Web Applications** ---
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=284FCA&width=435&lines=Pick+Me+%E2%8B%86.%F0%90%99%9A+%CC%8A+Choose+Me+%E2%8B%86%CB%9A%EA%A9%9C%EF%BD%A1+Love+Me+%CB%9A%CA%9A%E2%99%A1%C9%9E%CB%9A" alt="Typing SVG" />
   </a>
 </p>
 ---
+
 ## 🌐 Connect
 
 <p align="center">

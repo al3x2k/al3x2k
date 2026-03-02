@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQd2oVjz2k/giphy.gif" width="160"/>
+<img src="https://i.pinimg.com/originals/19/33/f2/1933f229934054eb1f9b9f9892ed5b65.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
 
 # 🫧 Alexandria Allen
 

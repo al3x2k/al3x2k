@@ -71,9 +71,8 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 - 🌊 React & JavaScript Web Applications  
 ---
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=FAU+Class+of+2026;Quantum+Computing+Enthusiast;React+%26+Full+Stack+Developer;Building+an+Etsy+Empire" alt="Typing SVG" />
-  </a>
+ [ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=FAU+Class+of+2026;Quantum+Computing+Enthusiast;React+%26+Full+Stack+Developer;Building+an+Etsy+Empire" alt="Typing SVG" /></a>(https://readme-typing-svg.demolab.com/demo/?font=Comfortaa&color=284FCA&lines=Pick+Me+%E2%8B%86.%F0%90%99%9A+%CC%8A+Choose+Me+%E2%8B%86%CB%9A%EA%A9%9C%EF%BD%A1+Love+Me+%CB%9A%CA%9A%E2%99%A1%C9%9E%CB%9A)
 </div>
 ---
 ## 🌐 Connect

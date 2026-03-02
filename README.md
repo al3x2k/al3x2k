@@ -17,6 +17,8 @@
 </div>
 
 ---
+[![Alexandria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=al3x2k&theme=ocean&area=true&hide_border=true)](https://github.com/al3x2k)
+---
 
 ## 🌊 About Me
 

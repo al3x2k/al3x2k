@@ -75,7 +75,6 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 </a>
 </p>
 
----
 
 <div align="center">
 

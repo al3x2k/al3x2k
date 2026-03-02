@@ -70,7 +70,11 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 - 🧩 Scalable System Architecture  
 - 🌊 React & JavaScript Web Applications  
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.comfont=Fira+Code&pause=1000&color=00D2FF&width=435&lines=FAU+Class+of+2026;Quantum+Computing+Enthusiast;React+%26+Full+Stack+Developer;Building+an+Etsy+Empire" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=FAU+Class+of+2026;Quantum+Computing+Enthusiast;React+%26+Full+Stack+Developer;Building+an+Etsy+Empire" alt="Typing SVG" />
+  </a>
+</div>
 ---
 ## 🌐 Connect
 

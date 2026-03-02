@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/19/33/f2/1933f229934054eb1f9b9f9892ed5b65.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
-
 # 🫧 Alexandria Allen
 
 ### 🪼 Computer Science • Artificial Intelligence • Quantum Systems
@@ -103,7 +101,7 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="250"/>
+<img src="https://i.pinimg.com/originals/19/33/f2/1933f229934054eb1f9b9f9892ed5b65.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
 
 ### 🪼 Clean • Bioluminescent • Structured • 2026 🪼
 

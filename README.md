@@ -1,17 +1,23 @@
-<!-- 🪼 MIDNIGHT JELLYFISH THIN BANNER -->
+<!-- 🪼 MIDNIGHT JELLYFISH FRUTIGER AERO README 🪼 -->
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/19/33/f2/1933f229934054eb1f9b9f9892ed5b65.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
+<img src="https://media.giphy.com/media/3o7TKsQ8UQd2oVjz2k/giphy.gif" width="160"/>
+
+# 🫧 Alexandria Allen
+
+### 🪼 Computer Science • Artificial Intelligence • Quantum Systems
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:000814,50:001d3d,100:00b4d8" />
+
+<p>
+  <img src="https://img.shields.io/badge/FAU_Scholar-001d3d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quantum_Computing-0077b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Class_of_2026-00b4d8?style=for-the-badge"/>
+</p>
 
 </div>
 
-<br>
-
-<h1 align="center">🫧 Alexandria Allen</h1>
-<h3 align="center">🪼 Computer Science • Artificial Intelligence • Quantum Systems</h3>
-
-<br>
 ---
 
 ## 🌊 About Me

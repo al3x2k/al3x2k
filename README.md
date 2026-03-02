@@ -79,8 +79,7 @@ Christian fasting companion prototype with progress tracking and intentional UI/
 ## 🫧 GitHub Ocean Stats
 
 
-[![Alexandria's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3x2k)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3x2k&layout=compact&theme=ocean)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ---
 

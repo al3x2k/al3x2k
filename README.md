@@ -25,7 +25,7 @@ I build systems that are:
 - 🧠 **Intelligent & Data-Driven** - 💎 **Clean & Structured** - 🌐 **Scalable & Real-World Ready** - ✨ **Purposeful & Optimistic** ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3Z4bmZ6eHpsY2R6bmR6bmR6bmR6bmR6bmR6bmR6bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="500" style="border-radius: 15px;"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3Z4bmZ6eHpsY2R6bmR6bmR6bmR6bmR6bmR6bmR6bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BiZGpnb2x0OXJ5YTVlNGZ0MmFlbWdnbWU4dWFrM3ZsNms4YWJ0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2K8GaJPVJlbzi/giphy.gif)" width="500" style="border-radius: 15px;"/>
 </div>
 
 ---

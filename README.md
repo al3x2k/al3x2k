@@ -80,7 +80,7 @@ Christian fasting companion prototype with progress tracking and intentional UI/
   <a href="https://www.linkedin.com/in/alexcompsci">
     <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aallen2022@fau.edu">
+  <a href="mailto:alexandriaallen04.15@gmail.com">
     <img src="https://img.shields.io/badge/Email-00b4d8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
